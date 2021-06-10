@@ -1,0 +1,12 @@
+E:\Myproject\BackEnd\NMT.Model\obj\Debug\netcoreapp3.1\NMT.Model.csprojAssemblyReference.cache
+E:\Myproject\BackEnd\NMT.Model\obj\Debug\netcoreapp3.1\NMT.Model.AssemblyInfoInputs.cache
+E:\Myproject\BackEnd\NMT.Model\obj\Debug\netcoreapp3.1\NMT.Model.AssemblyInfo.cs
+E:\Myproject\BackEnd\NMT.Model\obj\Debug\netcoreapp3.1\NMT.Model.csproj.CoreCompileInputs.cache
+E:\Myproject\backend\NMT.Model\bin\Debug\netcoreapp3.1\NMT.Model.deps.json
+E:\Myproject\backend\NMT.Model\bin\Debug\netcoreapp3.1\NMT.Model.dll
+E:\Myproject\backend\NMT.Model\bin\Debug\netcoreapp3.1\NMT.Model.pdb
+E:\Myproject\backend\NMT.Model\bin\Debug\netcoreapp3.1\NMT.Utils.dll
+E:\Myproject\backend\NMT.Model\bin\Debug\netcoreapp3.1\NMT.Utils.pdb
+E:\Myproject\backend\NMT.Model\obj\Debug\netcoreapp3.1\NMT.Model.csproj.CopyComplete
+E:\Myproject\backend\NMT.Model\obj\Debug\netcoreapp3.1\NMT.Model.dll
+E:\Myproject\backend\NMT.Model\obj\Debug\netcoreapp3.1\NMT.Model.pdb

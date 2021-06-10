@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Misa.BL/1.0.0": {
+        "dependencies": {
+          "NMT.Enum": "1.0.0",
+          "NMT.Model": "1.0.0"
+        },
+        "runtime": {
+          "Misa.BL.dll": {}
+        }
+      },
+      "NMT.Enum/1.0.0": {
+        "runtime": {
+          "NMT.Enum.dll": {}
+        }
+      },
+      "NMT.Model/1.0.0": {
+        "dependencies": {
+          "NMT.Utils": "1.0.0"
+        },
+        "runtime": {
+          "NMT.Model.dll": {}
+        }
+      },
+      "NMT.Utils/1.0.0": {
+        "runtime": {
+          "NMT.Utils.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Misa.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NMT.Enum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NMT.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NMT.Utils/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

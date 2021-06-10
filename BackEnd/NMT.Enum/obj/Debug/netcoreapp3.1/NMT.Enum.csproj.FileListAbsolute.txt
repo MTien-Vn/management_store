@@ -1,0 +1,9 @@
+E:\Myproject\BackEnd\NMT.Enum\bin\Debug\netcoreapp3.1\NMT.Enum.deps.json
+E:\Myproject\BackEnd\NMT.Enum\bin\Debug\netcoreapp3.1\NMT.Enum.dll
+E:\Myproject\BackEnd\NMT.Enum\bin\Debug\netcoreapp3.1\NMT.Enum.pdb
+E:\Myproject\BackEnd\NMT.Enum\obj\Debug\netcoreapp3.1\NMT.Enum.csprojAssemblyReference.cache
+E:\Myproject\BackEnd\NMT.Enum\obj\Debug\netcoreapp3.1\NMT.Enum.AssemblyInfoInputs.cache
+E:\Myproject\BackEnd\NMT.Enum\obj\Debug\netcoreapp3.1\NMT.Enum.AssemblyInfo.cs
+E:\Myproject\BackEnd\NMT.Enum\obj\Debug\netcoreapp3.1\NMT.Enum.csproj.CoreCompileInputs.cache
+E:\Myproject\BackEnd\NMT.Enum\obj\Debug\netcoreapp3.1\NMT.Enum.dll
+E:\Myproject\BackEnd\NMT.Enum\obj\Debug\netcoreapp3.1\NMT.Enum.pdb
