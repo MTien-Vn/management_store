@@ -1,0 +1,3 @@
+nm import db trước nhé
+sau đó import data
+trong folder data, t có file readme, đọc nó để import data theo đúng thứ tự để k bị lỗi
